@@ -1,14 +1,14 @@
 {
-    "name": "Say Hello, Brian Bauska",
-    "short_name": "Say Hello, Brian Bauska",
+    "name": "Say Hello, Silus Spider",
+    "short_name": "Say Hello, Silus Spider",
     "icons": [
         {
-            "src": "/android-chrome-192x192.png",
+            "src": "/images/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-256x256.png",
+            "src": "/images/android-chrome-256x256.png",
             "sizes": "256x256",
             "type": "image/png"
         }
