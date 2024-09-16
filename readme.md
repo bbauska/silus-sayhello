@@ -1,16 +1,16 @@
 ---
 title: "Say Hello"
 author: "bbauska"
-date last editted: "10/6/2023 4+pm"
+date created: "10/6/2023 4+pm"
+date last editted: "9/16/2024 3+pm"
 output: 
   markdown:
     with_style
 ---
 
-<h1>sayhello.bauska.org</h1>
+<h1>sayhello.silus.website</h1>
 
 <h2>What I'm doing now</h2>
-
 
 <h3>UC-Davis: Data Manipulation with JavaScript</h3>
 
